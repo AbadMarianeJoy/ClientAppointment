@@ -12,6 +12,8 @@
 
 **Contributors of the project:**
 
+**BSCS2.1A**
+
 **Abad, Mariane Joy** - Designing and Programming
 
 **Ejido, Merilyn** - Designing and Programming
