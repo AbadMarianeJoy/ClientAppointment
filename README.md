@@ -2,7 +2,7 @@ Simple Appointment Scheduling System
 
 Members: 
 
-Abad, Mariane -
+Abad, Mariane Joy-
 
 Ejido, Merilyn -
 
