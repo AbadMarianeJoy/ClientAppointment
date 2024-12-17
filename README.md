@@ -16,8 +16,8 @@
 
 **BSCS2.1A**
 
-**Abad, Mariane Joy** - Designing and Programming
+**Abad, Mariane Joy** - Designer and Programmer
 
-**Ejido, Merilyn** - Designing and Programming
+**Ejido, Merilyn** - Designer and Programmer
 
-**Toribio, January** - Designing and Programming
+**Toribio, January** - Designer and Programmer
